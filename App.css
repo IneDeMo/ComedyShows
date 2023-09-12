@@ -39,6 +39,7 @@
 
 /*@import url('open-iconic-bootstrap.min.css');
 */
+
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -51,7 +52,7 @@ h1:focus {
 /*------------------------ Homepage ---------------------------*/
 
 .home-background {
-    background-image: url(../src/Ine.png);
+    background-image: url(Ine.png);
     height: 100%;
     background-repeat: no-repeat;
     background-size: cover;
